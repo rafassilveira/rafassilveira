@@ -1,20 +1,14 @@
 
-### Hi there 👋
+### 👋 Hi there, I'm Rafa :)
 
-<!--
-**rafassilveira/rafassilveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi, I'm Rafael, but you can call me <strong>Rafa</strong>.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Front-end React Developer from Brazi, 31 years old 👶🏻.
+
+
+
+
 <a target="_blank" href="https://www.linkedin.com/in/rafaelssilveira/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
